@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CodeGenerator</string>
+    <string name="title">Barcode and QRcode</string>
+    <string name="subtitle">Generator</string>
+    <string name="btnBar">MAKE BARCODE</string>
+    <string name="btnQr">MAKE QRCODE</string>
+    <string name="btnList">LISTED CODE</string>
+    <string name="btnAdd">ADD TO LIST</string>
+    <string name="btnUpdate">UPDATE DATA</string>
+    <string name="img1">image</string>
+    <string name="hintText">Input Text</string>
+    <string name="hintTipe">Input Tipe</string>
+    <string name="inputtxt">Enter text here</string>
+    <string name="gBarcode">Generate Barcode</string>
+    <string name="gQRcode">Generate QRCode</string>
+    <string name="mnEdit">Edit</string>
+    <string name="mnHapus">Hapus</string>
+</resources>
